@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Chat App</string>
+    <string name="Login">Login</string>
+    <string name="Subdcribe">Subscribe</string>
+    <string name="editeTextNumeroTlf">Phone Number</string>
+    <string name="editeTextPassword">Password</string>
+    <string name="buLogin">Login</string>
+    <string name="editeTextName">Name</string>
+    <string name="editeTextFirstName">First Name</string>
+    <string name="subscribe_message">Dont Have An Account?</string>
+    <string name="login_message"> Have you An Account?</string>
+</resources>
